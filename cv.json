@@ -46,7 +46,8 @@
       "summary": "E-Commers en desarollo para la venta de productos de la empresa familiar. ",
       "highlights": [
         "Started the company"
-      ]
+      ],
+      "url": "https://github.com/MarioLLindner/TPPrimerCuatrimestre2Anio"
     },
     {
       "name": "Web Municipal ",
@@ -219,7 +220,9 @@
       "highlights": [
         "React - Tailwind",
         "En desarrollo"
-      ]
+      ],
+      "url": "https://github.com/MarioLLindner/TPPrimerCuatrimestre2Anio",
+      "github": "https://github.com/MarioLLindner/TPPrimerCuatrimestre2Anio"
     },
     {
       "name": "BME-Bolsa de Valores de España",
@@ -229,7 +232,8 @@
         "Docker",
         "Multidioma",
         "JavaScript & TypeScript"
-      ]
+      ],
+      "url": "https://github.com/MarioLLindner/Front-BMEspa-a"
     },
     {
       "name": "Web Municipal ",
@@ -237,7 +241,8 @@
       "description": "Busqueda de empleos y empleadores.",
       "highlights": [
         "Pagina de contrataciones"
-      ]
+      ],
+      "url": "https://github.com/KevinFrias051/ProyectFinCuatrimestre"
     }
   ]
 }
